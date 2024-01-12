@@ -14,3 +14,35 @@
     --dark-blue-100: hsl(215, 32%, 27%); /*line*/
     --White: hsl(0, 0%, 100%);
 }
+
+body {
+    background: var(--dark-blue-300);
+}
+
+.img-main {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.wrapper {
+    padding: 1.5rem;
+    display: block;
+    max-width: 300px;
+    background-color: var(--dark-blue-200);
+    margin: 15vh auto;
+    border-radius: 1.5rem;
+}
+
+.flex-value {
+    display: flex;
+    justify-content: space-between;
+}
+
+.user {
+    display: flex;
+    align-items: center;
+}
+
+.user img {
+    width: 2rem;
+}
