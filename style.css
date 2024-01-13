@@ -34,9 +34,38 @@ body {
     border-radius: 1.5rem;
 }
 
+h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    color: var(--White);
+}
+
+p {
+    color: var(--Soft-blue);
+}
+
+.text-main {
+    color: var(--Soft-blue);
+    font-weight: 100;
+    margin: 1rem 0;
+}
+
 .flex-value {
     display: flex;
     justify-content: space-between;
+    
+}
+
+.coin-value, .time-value {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    margin: 1rem 0;
+}
+
+.coin-value p {
+    color: var(--Cyan);
 }
 
 .user {
