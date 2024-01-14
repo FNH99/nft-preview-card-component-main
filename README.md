@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/FNH99/nft-preview-card-component-main/blob/main/images/screenshot-desktop.png)
+![](https://github.com/FNH99/nft-preview-card-component-main/blob/main/images/screenshot_desktop.png)
 
 ### Links
 
